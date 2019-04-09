@@ -4,5 +4,5 @@
 
 each directory contains a **challenge** and **Solution** sub directory [ **Note**: unsolved challenges will contain a **README.md** and no otherdirectoyy listing!]
 
-## This repo will not be maintained, the challwnges for 2019 are as is! Thank You!
+## This repo will not be maintained, the challenges for 2019 are as is! Thank You!
 
